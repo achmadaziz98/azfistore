@@ -1,0 +1,6 @@
+buat database input di app/Config/Database.php
+url web taruh di app/Config/App.php
+
+cron job https://domain.com/sistem/cek-disbursement / per 5 menit
+
+callback https://domain.com/callback
